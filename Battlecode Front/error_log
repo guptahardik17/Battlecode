@@ -1,0 +1,7 @@
+[04-Nov-2018 07:26:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/prayaasc/public_html/battlecode/header.php:4) in /home/prayaasc/public_html/battlecode/index.php on line 14
+[04-Nov-2018 07:27:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/prayaasc/public_html/battlecode/header.php:4) in /home/prayaasc/public_html/battlecode/index.php on line 14
+[04-Nov-2018 07:27:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/prayaasc/public_html/battlecode/header.php:4) in /home/prayaasc/public_html/battlecode/index.php on line 14
+[04-Nov-2018 07:27:09 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/prayaasc/public_html/battlecode/login.php on line 28
+[04-Nov-2018 08:55:17 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/prayaasc/public_html/battlecode/login.php on line 28
+[04-Nov-2018 09:43:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/prayaasc/public_html/battlecode/header.php:4) in /home/prayaasc/public_html/battlecode/index.php on line 14
+[04-Nov-2018 11:42:10 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/prayaasc/public_html/battlecode/login.php on line 28
